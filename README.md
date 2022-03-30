@@ -1,12 +1,15 @@
+
 <h1 align="center">
 	42 - so_long
 </h1>
-# Description :
+
+<h1 align="center"> Description :</h1>
+<h3>
 This project is a small 2D game with 42schools library `MinilibX`. 
 It's built to make you work with textures, sprites and some very basic graphical elements.
 This project works only on macOS because of the library `MinilibX` that i used,
 and you need to set up this library first on your mac (GO TO 42 DOC).
-
+</h3>
 
 ## How to run so_long
 
